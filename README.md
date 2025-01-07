@@ -6,9 +6,11 @@ In order to construct a general-purpose speech-audio-music foundation model and 
 ![overview](./overview.png)
 
 ## Directory structure / ディレクトリ
+{YYYYMM} indicates the version of lists.
 - {YYYYMM}/dataset.csv: list for dataset
 - {YYYYMM}/dataset_augmentation.csv: list for dataset for data augmentation
 
+{YYYYMM} はリストのバージョンを表します．
 - {YYYYMM}/dataset.csv: データセットのリスト
 - {YYYYMM}/dataset_augmentation.csv: データ拡張用のデータセットのリスト
 
@@ -64,4 +66,7 @@ We are welcome to register new datasets! Please make issue and let us know the f
 - Aogu Wada (UTokyo) / 和田 仰（東大）
 - Ryo Ogawa (UTokyo) / 小川 諒（東大）
 - Kouei Yamaoka (UTokyo) / 山岡 洸瑛（東大）
+
+## Papers / 論文
+- 高道 慎之介, 和田 仰, 小川 諒, 山岡 洸瑛, 中田 亘, 淺井 航平, 関 健太郎, 岡本 悠希, 齋藤 佑樹, 小川 哲司, 猿渡 洋, 中村 友彦, 深山 覚, "音声・音響・音楽を扱うオープン基盤モデルの構築に向けたデータセット策定," 言語処理学会年次大会, 2025.
 
