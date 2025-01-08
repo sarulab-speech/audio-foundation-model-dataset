@@ -59,7 +59,7 @@ We are welcome to register new datasets! Please make issue and let us know the f
 - download link: データセットをダウンロードするリンク
 
 ## Update history / 更新履歴
-- ver.202501 ... first release
+- ver.202501 ... first release (450+ datasets, 2.2M hours)
 
 ## Contributors / 貢献者
 - Shinnosuke Takamichi (Keio University, UTokyo, AIST) / 高道 慎之介（慶大，東大，産総研）
