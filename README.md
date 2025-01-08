@@ -68,5 +68,5 @@ We are welcome to register new datasets! Please make issue and let us know the f
 - Kouei Yamaoka (UTokyo) / 山岡 洸瑛（東大）
 
 ## Papers / 論文
-- 高道 慎之介, 和田 仰, 小川 諒, 山岡 洸瑛, 中田 亘, 淺井 航平, 関 健太郎, 岡本 悠希, 齋藤 佑樹, 小川 哲司, 猿渡 洋, 中村 友彦, 深山 覚, "音声・音響・音楽を扱うオープン基盤モデルの構築に向けたデータセット策定," 言語処理学会年次大会, 2025.
+- 高道 慎之介, 和田 仰, 小川 諒, 山岡 洸瑛, 中田 亘, 淺井 航平, 関 健太郎, 岡本 悠希, 齋藤 佑樹, 小川 哲司, 猿渡 洋, 中村 友彦, 深山 覚, "[音声・音響・音楽を扱うオープン基盤モデルの構築に向けたデータセット策定](https://takamichi-lab.github.io/assets/pdf/paper/2025/takamichi25nlp_foundation.pdf)," 言語処理学会年次大会, 2025.
 
